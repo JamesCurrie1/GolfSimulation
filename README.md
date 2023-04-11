@@ -1,10 +1,10 @@
 # GolfSimulation
 
-#Group Members
+# Group Members
 James Currie
 Jayson Sandhu
 
 *******************************
-#Instructions
+# Instructions
 Download the grass.jpg and golf.py file in the same directory
 
