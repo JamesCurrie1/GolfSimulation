@@ -1,8 +1,11 @@
 # GolfSimulation
 This is a physics simulation for a 2D mini golf game. Using friction from materials like grass and sand. Disc collision is also used for when the ball comes into contact with on obstacle. 
 # Group Members
-James Currie
-Jayson Sandhu
+*James Currie 
+*100791095
+*james.currie1@ontariotechu.net
+**************
+Jayson Sandhu 
 
 *******************************
 # Instructions
