@@ -7,7 +7,8 @@ james.currie1@ontariotechu.net
 
 
 Jayson Sandhu 
-
+100659589
+jayson.sandhu@ontariotechu.net
 *******************************
 # Instructions
 * Download the grass.jpg and golf.py file in the same directory
